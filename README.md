@@ -22,5 +22,5 @@ This simple finance tracker allows users to track their expenses. Users can add 
 
 3. Add, view, and track your expenses. The data will persist even after refreshing the page.
 
-Credits
+Credits:
 Developed as part of a frontend development project.
